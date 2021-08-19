@@ -1,1 +1,1 @@
-console.log("Hello");
+console.log("Hello thang ngu tai sao may ngu vay ha");
